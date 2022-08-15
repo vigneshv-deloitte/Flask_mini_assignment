@@ -1,0 +1,15 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Function get_report_review was called
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2022 22:29:59] "POST /review/getReport HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Function get_report_review was called
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2022 22:31:30] "POST /review/getReport HTTP/1.1" 200 -
+INFO:root:Function get_report_dir was called
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2022 22:31:38] "POST /dir/getReport HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
